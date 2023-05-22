@@ -1,2 +1,6 @@
 hello evry body
+<<<<<<< HEAD
 bon soyons fous 
+=======
+bon soyons fous
+>>>>>>> e73d066e4977f0019a6651acb69a7bdebab785e1
